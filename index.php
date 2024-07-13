@@ -16,7 +16,7 @@
       new Darkmode().showWidget(); //by default to display in the dark mode. (Currently it is expired.)
     </script>
      <!-- This will get displayed when you open this website, for that tab icon will be total image and text would be this. -->
-    <link rel="shortcut icon" href="http://localhost/SurfingWebsite/Simple_Website_VideoSurfing/images/total.jpg" type="image/jpg"/>
+    <link rel="shortcut icon" href="../images/total.jpg" type="image/jpg"/>
     <title>Search for your Interest</title>
   </head>
 
@@ -35,28 +35,28 @@
       <div class="row">
         <!-- Image and Button to display the Motivational Speaker. -->
         <div class="col-sm-12 col-lg-3">
-          <img class="img-fluid rounded"src="http://localhost/SurfingWebsite/Simple_Website_VideoSurfing/images/SM.jpg" alt="...">
+          <img class="img-fluid rounded"src="../images/SM.jpg" alt="...">
           <div class="btn-Center">
             <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#SandipMahesvari">Motivational Speaker</button>
           </div>
         </div>
         <!-- Image and Button to display the Educational Speaker. -->
         <div class="col-sm-12 col-lg-3">
-          <img class="img-fluid rounded"src="http://localhost/SurfingWebsite/Simple_Website_VideoSurfing/images/knowledgegate.jpg" alt="...">
+          <img class="img-fluid rounded"src="../images/knowledgegate.jpg" alt="...">
             <div class="btn-Center">
               <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#KnowledgeGate">Educator</button>
             </div>
         </div>
         <!-- Image and Button to display the Comedian. -->
         <div class="col-sm-12 col-lg-3">
-          <img class="img-fluid rounded"src="http://localhost/SurfingWebsite/Simple_Website_VideoSurfing/images/aditimittal.jpg" alt="...">
+          <img class="img-fluid rounded"src="../images/aditimittal.jpg" alt="...">
             <div class="btn-Center">
               <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#adittimital">Comedian</button>
             </div>
         </div>
         <!-- Image and Button to display the Dance Group. -->
         <div class="col-sm-12 col-lg-3">
-          <img class="img-fluid rounded"src="http://localhost/SurfingWebsite/Simple_Website_VideoSurfing/images/teamnach.jpg" alt="...">
+          <img class="img-fluid rounded"src="../images/teamnach.jpg" alt="...">
             <div class="btn-Center">
               <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#teamNach">Entertainment</button>
             </div>
